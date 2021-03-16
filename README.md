@@ -7,7 +7,7 @@
 ### Как запустить:
 1. `git clone https://github.com/Scotfarel/http-proxy-server.git`
 2. `cd http-proxy-server/`
-3. `python3 proxy_server`
+3. `python3 proxy_server.py`
 
 ### Описание сделанного:
 На 127.0.0.1:8841 (дефолт) открыт прокси-сервер. Общение осуществляется только по HTTP.
